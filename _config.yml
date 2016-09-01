@@ -1,14 +1,14 @@
-layout_spectrum: 0.24010951863601804
-typography_spectrum: 0.025253585074096918
+layout_spectrum: 0.0549336988478899
+typography_spectrum: 0.565410723676905
 color:
-  brandStrength: 0.38298150640912354
-  lightness: 0.14260564604774117
-  saturation: 0.06407238612882793
-  rhythmicContrast: 0.2511775214225054
+  brandStrength: 0.16214779973961413
+  lightness: 0.5378250277135521
+  saturation: 0.7819818346761167
+  rhythmicContrast: 0.015912514878436923
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Ebra Inc.
