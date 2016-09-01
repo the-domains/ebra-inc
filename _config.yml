@@ -1,4 +1,3 @@
-layout_spectrum: 0.0549336988478899
 typography_spectrum: 0.565410723676905
 color:
   brandStrength: 0.16214779973961413
@@ -11,4 +10,7 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.0549336988478899
 name: Ebra Inc.
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/05ecc7f9-ba21-404f-8821-71106539e6f7.png
