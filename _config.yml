@@ -11,6 +11,11 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.7596226544119418
+author:
+  name: Aurelija Damasius
+  email: 'aurelija.damasius@gmail.com '
 name: Ebra Inc.
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac360363-64d1-40fb-b7f4-02683ae5cead.png
 title: Ebra Renovations
 description: Transforming How We Live
