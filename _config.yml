@@ -1,21 +1,14 @@
-typography_spectrum: 0.8490649107843637
+layout_spectrum: 0.24010951863601804
+typography_spectrum: 0.025253585074096918
 color:
-  brandStrength: 0.7618292972911149
-  lightness: 0.9484588431660086
-  saturation: 0.8678523087874055
-  rhythmicContrast: 0.4815383532550186
+  brandStrength: 0.38298150640912354
+  lightness: 0.14260564604774117
+  saturation: 0.06407238612882793
+  rhythmicContrast: 0.2511775214225054
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.7596226544119418
-author:
-  name: Aurelija Damasius
-  email: 'aurelija.damasius@gmail.com '
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Ebra Inc.
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac360363-64d1-40fb-b7f4-02683ae5cead.png
-title: Ebra Renovations
-description: Transforming How We Live
