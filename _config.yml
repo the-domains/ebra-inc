@@ -1,4 +1,3 @@
-layout_spectrum: 0.7596226544119418
 typography_spectrum: 0.8490649107843637
 color:
   brandStrength: 0.7618292972911149
@@ -6,9 +5,11 @@ color:
   saturation: 0.8678523087874055
   rhythmicContrast: 0.4815383532550186
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.7596226544119418
 name: Ebra Inc.
+title: 'Transforming How We Live '
