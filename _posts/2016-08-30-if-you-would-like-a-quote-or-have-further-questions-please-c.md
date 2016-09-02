@@ -1,18 +1,20 @@
 ---
-datePublished: '2016-08-30T23:47:38.213Z'
+datePublished: '2016-08-30T23:51:41.983Z'
+sourcePath: >-
+  _posts/2016-08-30-if-you-would-like-a-quote-or-have-further-questions-please-c.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T23:47:30.653Z'
+dateModified: '2016-08-30T23:51:40.410Z'
 title: ''
 publisher: {}
-description: 'If you would like a quote or have further questions please contact:'
+description: 'You can contact us directly at:'
 starred: false
-sourcePath: >-
-  _posts/2016-08-30-if-you-would-like-a-quote-or-have-further-questions-please-c.md
 _type: Blurb
 
 ---
-If you would like a quote or have further questions please contact:
+You can contact us directly at:
 
-ebra.canada@gmail.com or (647) 551-9595
+Email: ebra.canada@gmail.com
+
+Phone: (647) 551-9595
