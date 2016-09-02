@@ -16,6 +16,10 @@ author:
   email: aurelija.damasius@gmail.com
 logo: null
 name: Ebra Inc.
+navigation:
+  - name: Contact
+    id: caf25479-6edb-4ed6-8a67-70db215332fa
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/051f2f2d-562a-4881-9071-956f39ddc7c9.jpg
 title: Ebra Renovations
