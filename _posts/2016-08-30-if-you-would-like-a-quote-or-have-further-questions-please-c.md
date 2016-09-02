@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-30T23:51:41.983Z'
+id: caf25479-6edb-4ed6-8a67-70db215332fa
+dateModified: '2016-08-30T23:55:23.854Z'
+title: ''
+datePublished: '2016-08-30T23:55:24.106Z'
+author: []
+hasPage: true
+description: 'You can contact us directly at:'
+publisher: {}
+via: {}
+starred: false
 sourcePath: >-
   _posts/2016-08-30-if-you-would-like-a-quote-or-have-further-questions-please-c.md
-inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-30T23:51:40.410Z'
-title: ''
-publisher: {}
-description: 'You can contact us directly at:'
-starred: false
+url: you-can-contact-us-directly-at/index.html
 _type: Blurb
 
 ---
